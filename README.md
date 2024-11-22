@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PolarScience
 - 👀 I’m interested in Climate Change, Arctic, Aerosols, Nature, Photography
 - 🌱 I’m currently learning python during my PhD at EPFL in Switzerland
-- 📫 How to reach me: ivo.beck@epfl.ch 
+- 📫 How to reach me: ivo.beck@pm.me 
 - This was updated in October 2021
 
 <!---
